@@ -17,3 +17,5 @@ include 'services:webservice'
 */
 
 rootProject.name = 'kettle-runner'
+// projectGroup = 'ru.vetrf.wirbel'
+// projectVersion = '0.0.1'
